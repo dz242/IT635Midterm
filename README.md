@@ -1,1 +1,3 @@
-# IT635Midterm
+# IT635 Midterm
+
+by Dominik Zmuda
