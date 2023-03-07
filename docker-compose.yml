@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  db:
+    build: .
+    environment:
+      MYSQL_ROOT_PASSWORD: secret_pw
+    ports:
+      - "9906:3306"
